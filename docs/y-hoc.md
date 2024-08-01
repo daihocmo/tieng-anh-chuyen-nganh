@@ -1,57 +1,60 @@
 
-HƯỚNG DẪN HỌC TIẾNG ANH Y KHOA
+Pretty good list here:
 
-1. [Học anh văn y khoa từ số O](https://www.facebook.com/anhvanyds/posts/1777159619196855/?__cft__[0]=AZVaBFOEDAtO-VJBaGJKcIew21u54rBeUaNv18l760lLOck5iXT-hb081Julza9YOgbjHLt5DXdEcfbXxcCjZl_m070Av3MXBcH8ktSub1tMF4Sc_bGIyTInrXQlD49rXORsK0ODFwnDuS5GOYuje5J8_1wMq1b75Nlil7d1Kf3O2FHGCqr1pBsOJAhnAeDAiM4&__tn__=-UK-R)
+http://www.doaj.org/doaj?func=subject&cpId=24
 
-2. [Ngoại ngữ mất căn bản: Học tiếng Anh y khoa thế nào?](https://anhvanyds.com/2017/04/27/ngoai-ngu-bi-mat-can-ban-hoc-anh-van-y-khoa-nhu-nao/)
+DOAJ is pretty rad. I'd go check them out.
 
-3.  [Nên khởi đầu học ngoại ngữ y khoa như thế nào?](https://anhvanyds.com/2017/02/07/nen-khoi-dau-hoc-ngoai-ngu-nhu-the-nao/)
 
-4. [Làm sao để học tốt tiếng Anh chuyên ngành y khoa? ](https://anhvanyds.com/2017/01/06/lam-sao-de-hoc-tot-anh-van-y-khoa/)
+Upvote
+8
 
-6. [Tips học tiếng Anh Y khoa đơn giản mà hiệu quả](https://l.facebook.com/l.php?u=https%3A%2F%2Fanhvanyds.com%2F2019%2F02%2F27%2Fcach-hoc-tieng-anh-y-khoa-don-gian-ma-hieu-qua%2F&h=AT0jjT6IAMcrbS6tzMVA-S15mfuzkvB-6lPt6ao3ueEthgvQY9CKzZkF3BSjzczXDdKmYeW6TCVhpkYM0sW3UthRIm0AHXmNWtTVrcw1nszqzFaqBimbZGxGT9At8jdEs-czBtY2KPcKTZwiFA4k&__tn__=-UK-R&c[0]=AT1wKMdyCcl7hHZ6JZno8JfMXaM_onX8y-kk4StjOZ0konIK56fcDsKJDeCWD5yUiyIY025rfrAWh-1kEvOYtyZjzNjJV2KqE3FnpY66XrqVTba16hMQq-FuYFpwgstA2vPzQZOFB3qM0iomPht1ntA25BEUulHu7vbYwPNBhLE_XCcpHoc6eKWJRwcvBj2Ht5nrY96gmksovGrmLxVThNFl)
+Downvote
 
-7. [Làm thế nào để đọc sách ngoại văn hiệu quả](https://l.facebook.com/l.php?u=https%3A%2F%2Fanhvanyds.com%2F2017%2F05%2F25%2Flam-the-nao-de-doc-sach-ngoai-van-hieu-qua%2F&h=AT0mXh8Vo16Qio1XjxGQ2vau0D61xrFu4CrqyyLzOg3qRzrkZXgH0y2LkI4_3rYoRbfPPCaivDAfzy7TQ3K-Ut8HGSLvPObFwUY5o6M1EDVrcSan_SMAllm5L8P4cwjVXBGb-L-12wOLf2E1sscH&__tn__=-UK-R&c[0]=AT1wKMdyCcl7hHZ6JZno8JfMXaM_onX8y-kk4StjOZ0konIK56fcDsKJDeCWD5yUiyIY025rfrAWh-1kEvOYtyZjzNjJV2KqE3FnpY66XrqVTba16hMQq-FuYFpwgstA2vPzQZOFB3qM0iomPht1ntA25BEUulHu7vbYwPNBhLE_XCcpHoc6eKWJRwcvBj2Ht5nrY96gmksovGrmLxVThNFl)
-[Cách học tiếng Anh Y Khoa trên lâm sàng](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9OY3AEEbXF4&h=AT1J34iwGnxUGPPJ-mgqzgcbXum10eMCM7QVDwyJ9b9bsSSQFlmmb45dAeaPIKiJvHZkCZ7P_6AtagVYY-oFamJo75nAmENLmK9xxlvdWunbVVwBJLGJbSXOjI66WbarRwoD9e3UcW8RU6bOxGTq&__tn__=-UK-R&c[0]=AT1wKMdyCcl7hHZ6JZno8JfMXaM_onX8y-kk4StjOZ0konIK56fcDsKJDeCWD5yUiyIY025rfrAWh-1kEvOYtyZjzNjJV2KqE3FnpY66XrqVTba16hMQq-FuYFpwgstA2vPzQZOFB3qM0iomPht1ntA25BEUulHu7vbYwPNBhLE_XCcpHoc6eKWJRwcvBj2Ht5nrY96gmksovGrmLxVThNFl)
+PlosOne?
 
-SÁCH TIẾNG ANH Y KHOA
+P&T Journal is open access.
 
-1. Giới thiệu sách English in Medicine: [https://anhvanyds.com/sach-y-khoa-tieng-anh/page/2/](https://l.facebook.com/l.php?u=https%3A%2F%2Fanhvanyds.com%2Fsach-y-khoa-tieng-anh%2Fpage%2F2%2F&h=AT0UTIujIIX7h8b1mvEoYuM572C54BTMWwB6nKR_vo7Y2ocZMiOTmdZw74Wwye_OhEeGFQ4092mU7-VA-9OQP0yJwMWrv3UyO80SqVq1MMkGR8CAM0XBgh-Sk3H3nRbyOUAKPMJu8co_ify1G3C-&__tn__=-UK-R&c[0]=AT1wKMdyCcl7hHZ6JZno8JfMXaM_onX8y-kk4StjOZ0konIK56fcDsKJDeCWD5yUiyIY025rfrAWh-1kEvOYtyZjzNjJV2KqE3FnpY66XrqVTba16hMQq-FuYFpwgstA2vPzQZOFB3qM0iomPht1ntA25BEUulHu7vbYwPNBhLE_XCcpHoc6eKWJRwcvBj2Ht5nrY96gmksovGrmLxVThNFl)
+[9y ago](https://www.reddit.com/r/medicine/comments/38c07d/comment/crtxdkd/)-Edited 9y ago
 
-2. Giới thiệu sách Medical English: [https://anhvanyds.com/.../05/04/medical-english-ramon-ribes/](https://l.facebook.com/l.php?u=https%3A%2F%2Fanhvanyds.com%2F2017%2F05%2F04%2Fmedical-english-ramon-ribes%2F&h=AT3kSE-mMjdRPr3kxp92-HsxBFDk6ryyE1M9VCY2V-WjSwrfH4yfG05DRluffoEtrVBaR42d3R9Y7q9W35o2XX8qvTarOulSEkOUbP5IWvuIPKttFy1nwRg7dq8KyBXtrd1JUdDZDGVwIK7FjVu1&__tn__=-UK-R&c[0]=AT1wKMdyCcl7hHZ6JZno8JfMXaM_onX8y-kk4StjOZ0konIK56fcDsKJDeCWD5yUiyIY025rfrAWh-1kEvOYtyZjzNjJV2KqE3FnpY66XrqVTba16hMQq-FuYFpwgstA2vPzQZOFB3qM0iomPht1ntA25BEUulHu7vbYwPNBhLE_XCcpHoc6eKWJRwcvBj2Ht5nrY96gmksovGrmLxVThNFl)
+[Life in the fast lane](http://lifeinthefastlane.com/) is a great source for development in emergency medicine and critical care. Their "Research and Reviews in the Fastlane" summarize a couple of noteworthy articles in the past month(or week?). And a great ECG library.
 
-3. Giới thiệu sách Dictionary of Medical Terms: [https://anhvanyds.com/2016/09/11/tu-dien-tieng-anh-y-khoa/](https://l.facebook.com/l.php?u=https%3A%2F%2Fanhvanyds.com%2F2016%2F09%2F11%2Ftu-dien-tieng-anh-y-khoa%2F&h=AT2e5m8NIKez3pl3EtDZi7Blsou_ty737GmlAAX95eFVx3ZM459AY2QwKUN5U6F_DUY1mXngiVp6JEd5pBjuftimK6Pb1hfLsttnl1SS6fBH6gFiOIR78y_AqLWmkrFlv4THxToNGPYlEPqBPNpi&__tn__=-UK-R&c[0]=AT1wKMdyCcl7hHZ6JZno8JfMXaM_onX8y-kk4StjOZ0konIK56fcDsKJDeCWD5yUiyIY025rfrAWh-1kEvOYtyZjzNjJV2KqE3FnpY66XrqVTba16hMQq-FuYFpwgstA2vPzQZOFB3qM0iomPht1ntA25BEUulHu7vbYwPNBhLE_XCcpHoc6eKWJRwcvBj2Ht5nrY96gmksovGrmLxVThNFl)
+[Dr smith's ECG blog](http://hqmeded-ecg.blogspot.se/) posts interesting cases relating to ECG.
 
-4. Giới thiệu sách: Tiếng Anh Y Khoa Cho Người Mới Bắt Đầu [https://anhvanyds.com/.../sach-thuat-ngu-y-khoa-tieng-anh/](https://l.facebook.com/l.php?u=https%3A%2F%2Fanhvanyds.com%2F2018%2F10%2F08%2Fsach-thuat-ngu-y-khoa-tieng-anh%2F&h=AT1tGO4wZP5O_Ydootp4glhuAzYb5rdOpPAP29_dq3xOAXAARjdgRmmwKj7xG9ByA926sILXKFt3gDDHxtz9Es-ggcQxL1ES1H5_uXliUrCYqzzmKTxc3RLd9MaOgRPE2TJ_pYQOi3lWxA3OJhX2&__tn__=-UK-R&c[0]=AT1wKMdyCcl7hHZ6JZno8JfMXaM_onX8y-kk4StjOZ0konIK56fcDsKJDeCWD5yUiyIY025rfrAWh-1kEvOYtyZjzNjJV2KqE3FnpY66XrqVTba16hMQq-FuYFpwgstA2vPzQZOFB3qM0iomPht1ntA25BEUulHu7vbYwPNBhLE_XCcpHoc6eKWJRwcvBj2Ht5nrY96gmksovGrmLxVThNFl)
+I can recommend a couple of great EM/CC podcasts.
 
-5. Giới thiệu sách: Tiếng Anh Y Khoa Y Học Cổ Truyền [https://anhvanyds.com/.../sach-tieng-anh-y-hoc-co-truyen.../](https://l.facebook.com/l.php?u=https%3A%2F%2Fanhvanyds.com%2F2018%2F06%2F21%2Fsach-tieng-anh-y-hoc-co-truyen-who%2F&h=AT1NxbRoxmSNMWT02QF5eeKi_9yZtGDzbcsqC1V2PIQf6ph7SAD4r33yO2Q8tV42_CSFtbKf6tHs7oxxQ61KtQr23jEnkf9d3ojEpXORbcW1zNJWN3eu9d3C43L1TEQfuDJlmIeJFFyKYTLQ8Wam&__tn__=-UK-R&c[0]=AT1wKMdyCcl7hHZ6JZno8JfMXaM_onX8y-kk4StjOZ0konIK56fcDsKJDeCWD5yUiyIY025rfrAWh-1kEvOYtyZjzNjJV2KqE3FnpY66XrqVTba16hMQq-FuYFpwgstA2vPzQZOFB3qM0iomPht1ntA25BEUulHu7vbYwPNBhLE_XCcpHoc6eKWJRwcvBj2Ht5nrY96gmksovGrmLxVThNFl)
+[EMCRIT](http://emcrit.org/) Scott Weingart is the best of the best in the FOAM world.(Free Open Access Medical Education)
 
-6. Giới thiệu sách: Tổng hợp sách Thuật Ngữ Y Khoa [https://anhvanyds.com/.../thuat-ngu-anh-van-chuyen-nganh.../](https://l.facebook.com/l.php?u=https%3A%2F%2Fanhvanyds.com%2F2017%2F02%2F13%2Fthuat-ngu-anh-van-chuyen-nganh-y-khoa-co-ban%2F&h=AT1F4Uj1nYN1WdyLHMD6kaVk4xMxGxdHTxCffoDDbsq9LuyMKr9NJGM2uUEyKkGW1SL33ZdbJL1nzyNwyJDOykf1a-THQJzcz7rUBrxQA4NLbpB_3BRZzAcftOe0DIToDqud84cU7sRjIuczUC2a&__tn__=-UK-R&c[0]=AT1wKMdyCcl7hHZ6JZno8JfMXaM_onX8y-kk4StjOZ0konIK56fcDsKJDeCWD5yUiyIY025rfrAWh-1kEvOYtyZjzNjJV2KqE3FnpY66XrqVTba16hMQq-FuYFpwgstA2vPzQZOFB3qM0iomPht1ntA25BEUulHu7vbYwPNBhLE_XCcpHoc6eKWJRwcvBj2Ht5nrY96gmksovGrmLxVThNFl)
+[ERcast](http://blog.ercast.org/) an ED view of things. Great podcast as well.
 
-7. Giới thiệu sách + AUDIO tiếng anh y khoa: [https://www.facebook.com/.../a.19911.../2077940715785409/...](https://www.facebook.com/anhvanyds/photos/a.1991104277802387/2077940715785409/?type=3&theater&__cft__[0]=AZVaBFOEDAtO-VJBaGJKcIew21u54rBeUaNv18l760lLOck5iXT-hb081Julza9YOgbjHLt5DXdEcfbXxcCjZl_m070Av3MXBcH8ktSub1tMF4Sc_bGIyTInrXQlD49rXORsK0ODFwnDuS5GOYuje5J8_1wMq1b75Nlil7d1Kf3O2FHGCqr1pBsOJAhnAeDAiM4&__tn__=-UK-R)
+[SMACC](http://www.smacc.net.au/) a conference with podcasts of from the lectures. EM/CC.
 
-8. Tập hợp các sách ngoại văn cần đọc đến khi ra trường: [https://anhvanyds.com/.../22/sach-ngoai-van-y-khoa-can-doc/](https://l.facebook.com/l.php?u=https%3A%2F%2Fanhvanyds.com%2F2016%2F08%2F22%2Fsach-ngoai-van-y-khoa-can-doc%2F&h=AT01dC-xlP0DZIRDYftN4o-BKmwBIDE6dKbKicKd23xQdXpwlvxS7ENiUkJ02KPuGuUH_bTpkdo6ZYs9usBtH3Z175a9yM9jJoQD-38_TNFE0NTv1QgFglk0qpBu5XAsuXg_G2hsfyi_gqgLZLj_&__tn__=-UK-R&c[0]=AT1wKMdyCcl7hHZ6JZno8JfMXaM_onX8y-kk4StjOZ0konIK56fcDsKJDeCWD5yUiyIY025rfrAWh-1kEvOYtyZjzNjJV2KqE3FnpY66XrqVTba16hMQq-FuYFpwgstA2vPzQZOFB3qM0iomPht1ntA25BEUulHu7vbYwPNBhLE_XCcpHoc6eKWJRwcvBj2Ht5nrY96gmksovGrmLxVThNFl)
+[RAGE podcast](http://ragepodcast.com/) The site is down unfortunately. Long and great pods with takes from different specialities on several subjects.
 
-9. Thuật ngữ dịch tể học: [https://anhvanyds.com/.../thuat-ngu-dich-te-hoc-tieng-anh/](https://anhvanyds.com/2019/06/13/thuat-ngu-dich-te-hoc-tieng-anh/)
+Some journals/sites i can recommend is:
 
-10. Bộ từ điển Y Khoa: [https://anhvanyds.com/.../tron-bo-tu-dien-y-khoa-tieng-anh/](https://anhvanyds.com/2019/06/13/tron-bo-tu-dien-y-khoa-tieng-anh/)
+[Critical care](http://www.ccforum.com/)
 
-KỸ NĂNG HỌC TIẾNG ANH Y KHOA
+[Critical Care Medicine](http://journals.lww.com/ccmjournal/Pages/default.aspx)
 
-1. 55 hình ảnh MENMONICS để học tiếng ANH Y KHOA: [https://anhvanyds.com/.../55-hinh-anh-thu-vi-de-hoc.../](https://l.facebook.com/l.php?u=https%3A%2F%2Fanhvanyds.com%2F2018%2F05%2F06%2F55-hinh-anh-thu-vi-de-hoc-tieng-anh-y-khoa%2F&h=AT1OAZmgta1bkltKZAWtVLNfeqdTI7eoxQqJXv4X1S4xicWoBzkYHInSEkxju5NoCnaBPfQ3DMVJlOhrdd7e7FeakxaTzcyNqd4tITMb9QKrAC-qqbZoLkfGly4WX4YigffF3ro2VHYMQ2EuctQl&__tn__=-UK-R&c[0]=AT1wKMdyCcl7hHZ6JZno8JfMXaM_onX8y-kk4StjOZ0konIK56fcDsKJDeCWD5yUiyIY025rfrAWh-1kEvOYtyZjzNjJV2KqE3FnpY66XrqVTba16hMQq-FuYFpwgstA2vPzQZOFB3qM0iomPht1ntA25BEUulHu7vbYwPNBhLE_XCcpHoc6eKWJRwcvBj2Ht5nrY96gmksovGrmLxVThNFl)
+[Emergency medicine journal](http://emj.bmj.com/)
 
-2. Luyện nghe: bản tin y khoa qua VOA learning English: [https://anhvanyds.com/.../luyen-nghe-ban-tin-tieng-anh-y.../](https://l.facebook.com/l.php?u=https%3A%2F%2Fanhvanyds.com%2F2017%2F07%2F25%2Fluyen-nghe-ban-tin-tieng-anh-y-khoa-qua-voa-special-english%2F&h=AT0FPqYyP1oGPyNZlcn1N9pk88pVqEV1a8kivzSim3IRp9CgzRY1Ii80TQzgZt1YvRXT-BZFGgxhRZfHY0cFe9z_N3aQQCF5g3nMDngg_U40KTkE0MwyrrC8nCuq5-odTMZQNc4vB0_AGSlAY7cO&__tn__=-UK-R&c[0]=AT1wKMdyCcl7hHZ6JZno8JfMXaM_onX8y-kk4StjOZ0konIK56fcDsKJDeCWD5yUiyIY025rfrAWh-1kEvOYtyZjzNjJV2KqE3FnpY66XrqVTba16hMQq-FuYFpwgstA2vPzQZOFB3qM0iomPht1ntA25BEUulHu7vbYwPNBhLE_XCcpHoc6eKWJRwcvBj2Ht5nrY96gmksovGrmLxVThNFl)
+[The Trauma Professional's Blog](http://regionstraumapro.com/)
 
-3. Luyện nghe: 69 videos BIOLOGY: [https://anhvanyds.com/.../luyen-nghe-qua-69-videos-biology/](https://l.facebook.com/l.php?u=https%3A%2F%2Fanhvanyds.com%2F2017%2F02%2F20%2Fluyen-nghe-qua-69-videos-biology%2F&h=AT15KfgUhHr3m_geCzh-lv6ZzLouXohlX9GR0fIGG5RAsC58x723xJtyVD9f9TSkYoD6VQL2FnUI-CLVWKWc-bhWs0p8bG6phMLQrfJcxJLSQhrLyVGhl48xwwOPyqVWGCyr_sV1QRgmA-4oXkwO&__tn__=-UK-R&c[0]=AT1wKMdyCcl7hHZ6JZno8JfMXaM_onX8y-kk4StjOZ0konIK56fcDsKJDeCWD5yUiyIY025rfrAWh-1kEvOYtyZjzNjJV2KqE3FnpY66XrqVTba16hMQq-FuYFpwgstA2vPzQZOFB3qM0iomPht1ntA25BEUulHu7vbYwPNBhLE_XCcpHoc6eKWJRwcvBj2Ht5nrY96gmksovGrmLxVThNFl)
+I collect all my feeds in the app "Feedly" on my iphone with the above mentioned sites. It gives a good overview of the recent news and articles with the possibility to read the article/abstract.
 
-4. Luyện nghe: English in Medicine: [https://www.youtube.com/watch?v=DTck95UwdFQ...](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDTck95UwdFQ%26list%3DPLvVD9alO61GrtKKBnoDQQhxoZD_oDqGSp%26index%3D1&h=AT136zwe5Spvjayv6Idlf8MAp9j1271M0aa01kIArVYfo2fd5F6PGu9EbtVMtl_Nlmxs07vCV0L-reFJ8b8S25PV8wZzymibngTRt641yueBOu-CV8kNElr8Jh4SaZKHQbdPbB__gdIlz3rBGM1p&__tn__=-UK-R&c[0]=AT1wKMdyCcl7hHZ6JZno8JfMXaM_onX8y-kk4StjOZ0konIK56fcDsKJDeCWD5yUiyIY025rfrAWh-1kEvOYtyZjzNjJV2KqE3FnpY66XrqVTba16hMQq-FuYFpwgstA2vPzQZOFB3qM0iomPht1ntA25BEUulHu7vbYwPNBhLE_XCcpHoc6eKWJRwcvBj2Ht5nrY96gmksovGrmLxVThNFl)
 
-5. Phiên âm IPA và AHD trong từ điển Y Khoa: [https://anhvanyds.com/.../phien-am-ahd-va-ipa-trong-tu.../](https://l.facebook.com/l.php?u=https%3A%2F%2Fanhvanyds.com%2F2019%2F06%2F04%2Fphien-am-ahd-va-ipa-trong-tu-dien-y-khoa-dorland%2F&h=AT3jmlNqID42kqjdaN6xniC8sGTVMxsxy3c8ETFbGbiGyKF0oi_k7rzyWvLmqWci1G6SwJkEPlX4v8Z6xO0JVxx6r7W7w6B8rvjNBCH_UVeB6w35BhkQNLafPQigBFk7cBAB5j3SskfuXR81YGrn&__tn__=-UK-R&c[0]=AT1wKMdyCcl7hHZ6JZno8JfMXaM_onX8y-kk4StjOZ0konIK56fcDsKJDeCWD5yUiyIY025rfrAWh-1kEvOYtyZjzNjJV2KqE3FnpY66XrqVTba16hMQq-FuYFpwgstA2vPzQZOFB3qM0iomPht1ntA25BEUulHu7vbYwPNBhLE_XCcpHoc6eKWJRwcvBj2Ht5nrY96gmksovGrmLxVThNFl)
+[2 Minute Medicine](http://2minutemedicine.com/) bar none. Excellent summaries of all the new journal articles, and it's written by doctors.
 
-6. Luyện nghe: Clinical Presentation in English (real cases) [https://www.youtube.com/watch?v=LML3bxjs4Js...](https://www.youtube.com/watch?v=LML3bxjs4Js&list=PLvVD9alO61GoallEbZkYqMv1sYbdq2ZW2)
+Dermnetnz.org for rashes. I’ve never seen better (not even UpToDate), and it is free.
 
-7. Tổng hợp giảng Tiếng Anh Y Khoa Lâm Sàng: [https://anhvanyds.com/bai-giang/clinical-class/](https://l.facebook.com/l.php?u=https%3A%2F%2Fanhvanyds.com%2Fbai-giang%2Fclinical-class%2F&h=AT1SPwBuyFkyb9wQfEtRZP9V-vM54dcFAnX9MXR51GhWMxJ4ogXqXUbzmZegF9yp0nXvszT51MDpJ4vI8GbOb1azK3sC7OV8uWuU_aHQ0c-bSJmboEOpxXax7R2O3pxQmJ7ssg74Kxn1CpPUktNT&__tn__=-UK-R&c[0]=AT1wKMdyCcl7hHZ6JZno8JfMXaM_onX8y-kk4StjOZ0konIK56fcDsKJDeCWD5yUiyIY025rfrAWh-1kEvOYtyZjzNjJV2KqE3FnpY66XrqVTba16hMQq-FuYFpwgstA2vPzQZOFB3qM0iomPht1ntA25BEUulHu7vbYwPNBhLE_XCcpHoc6eKWJRwcvBj2Ht5nrY96gmksovGrmLxVThNFl)
+Has anyone mentioned UpToDate yet?? :)
 
-8. Tổng hợp bài giảng Thuật ngữ tiếng Anh Y Khoa Thuật ngữ: [https://anhvanyds.com/bai-giang/clinical-class/](https://l.facebook.com/l.php?u=https%3A%2F%2Fanhvanyds.com%2Fbai-giang%2Fclinical-class%2F&h=AT1SPwBuyFkyb9wQfEtRZP9V-vM54dcFAnX9MXR51GhWMxJ4ogXqXUbzmZegF9yp0nXvszT51MDpJ4vI8GbOb1azK3sC7OV8uWuU_aHQ0c-bSJmboEOpxXax7R2O3pxQmJ7ssg74Kxn1CpPUktNT&__tn__=-UK-R&c[0]=AT1wKMdyCcl7hHZ6JZno8JfMXaM_onX8y-kk4StjOZ0konIK56fcDsKJDeCWD5yUiyIY025rfrAWh-1kEvOYtyZjzNjJV2KqE3FnpY66XrqVTba16hMQq-FuYFpwgstA2vPzQZOFB3qM0iomPht1ntA25BEUulHu7vbYwPNBhLE_XCcpHoc6eKWJRwcvBj2Ht5nrY96gmksovGrmLxVThNFl)
 
-===
+Being Mortal. Or anything else by Atul Gawande, actually. Very relevant to medicine.
+
+House of God is something you should revisit before residency or at least during/after rotations - it might seem more relevant then.
+
+When Breath Becomes Air.
+
+I would consider [The Cochrane Library](http://www.cochranelibrary.com/) to be pretty readable
