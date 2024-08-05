@@ -5,7 +5,7 @@ Một trang tài nguyên cho ESP cho từng ngành sẽ trông như thế nào?
 
 ## Tài nguyên đọc
 
-## Tài nguyên nghe
+## Tài nguyên xem & nghe
 
 ## Cộng đồng và diễn đàn
 
