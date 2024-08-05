@@ -34,6 +34,7 @@ Vừa học hỏi thêm kiến thức mới lẫn cả Tiếng Anh nữa.
 - [The Elements of Computing Systems: Building a Modern Computer from First Principles]()
 - [The Pragmatic Programmer]()
 - [Essential Algorithms: A Practical Approach to Computer Algorithms]()
+
 ## Tài nguyên xem & nghe
 Tôi sẽ để Podcast và cách kênh Youtube nói về công nghệ chung chung chứ không phải là dạy lập trình (Vì mục đích của mình là học Tiếng Anh mà :>).
 
