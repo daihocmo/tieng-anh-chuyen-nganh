@@ -10,18 +10,18 @@
 
 Trước khi bắt đầu học ESP, bạn cần có mức độ Tiếng Anh tối thiểu (Ít nhất là B1, sẽ phù hợp hơn nếu bạn bắt đầu từ B2).
 
-Cho người mất gốc chưa biết gì = [Tự luyện Tiếng Anh]() - Tự học lên B1
+Cho người mất gốc chưa biết gì = [Tự luyện Tiếng Anh](https://daihocmo.github.io/tu-luyen-tieng-anh/) - Tự học lên B1
 
-Leo lên từ B1 lên B2 = 
+Leo lên từ B1 lên B2 = Cày thêm nội dung Comprehensible (Khoảng cấp của bạn) và khi cảm thấy tự tin hãy thử thi bài thi đánh giá năng lực Tiếng Anh trên mạng (kiểu English Proficiency Test đại loại vậy).
 
 ### Cài đặt
-Một trong những phần mềm mọi người cần dùng là Anki. Anki sẽ giúp bạn tối ưu thời gian ghi nhớ để có thể ghi nhớ một lượng lớn từ vựng và đưa nó vào bộ nhớ dài hạn tốt hơn. Tất nhiên là bạn có thể làm điều tương tự bằng cách đọc thật nhiều. Nhưng Anki khiến mọi thứ đơn giản hơn nhiều. Bạn xem hướng dẫn [Cài đặt Anki]() và [hướng dẫn tạo thẻ Anki đơn giản]() để
+Một trong những phần mềm mọi người cần dùng là Anki. Anki sẽ giúp bạn tối ưu thời gian ghi nhớ để có thể ghi nhớ một lượng lớn từ vựng và đưa nó vào bộ nhớ dài hạn tốt hơn. Tất nhiên là bạn có thể làm điều tương tự bằng cách đọc thật nhiều. Nhưng Anki khiến mọi thứ đơn giản hơn nhiều. Bạn xem hướng dẫn [Cài đặt Anki](https://www.youtube.com/watch?v=M9-qwsHyBrc) và [hướng dẫn tạo thẻ Anki đơn giản](https://youtu.be/Om_1NECh8sQ) để
 
 Thứ hai là một bộ từ điển kĩ thuật hoặc từ điển chuyên ngành, lý do là có khá nhiều từ mà từ ở nghĩa thông thường lại một kiểu, nhưng nghĩa chuyên ngành lại một kiểu khác. Nên bạn nên cài đặt và sử dụng song song nhiều từ điển khác nhau. Một ứng dụng hỗ trợ tốt điều này là Goldendict (Bạn nên tải Goldendict-ng).
 
-Hoặc một lựa chọn khác là [Yomitan]() - một từ điển pop-up trên trình duyệt, có thể sử dụng được rất nhiều từ điển cùng một lúc. Hiện tại có nhiều người đã làm từ điển Anh - Anh cho Yomitan rồi.
+Hoặc một lựa chọn khác là [Yomitan](https://chromewebstore.google.com/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn) - một từ điển pop-up trên trình duyệt, có thể sử dụng được rất nhiều từ điển cùng một lúc. Hiện tại có nhiều người đã làm từ điển Anh - Anh cho Yomitan rồi.
 
-Hướng dẫn cách chọn từ điển và cài đặt thì bạn có thể đọc [bài viết này]().
+Hướng dẫn cách chọn từ điển và cài đặt thì bạn có thể đọc [bài viết này](https://daihocmo.github.io/tieng-anh/setup/).
  
 ## Hướng dẫn
 ### Cách học ESP thực sự rất đơn giản, chỉ có duy nhất một quy tắc bạn cần nhớ
