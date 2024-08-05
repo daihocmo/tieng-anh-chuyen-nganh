@@ -58,7 +58,7 @@ LƯU Ý: Danh sách các ngành sẽ được bổ sung, hiện tại mình ch�
 - An toàn thông tin.
 
 ### Kinh tế
-- [Business English](./docs/kinh-te.md) - Khu tổng hợp cho Tiếng Anh trong lĩnh vực kinh doanh và doanh nghiệp, sales .v.v. 
+- [Business English](./docs/business.md) - Khu tổng hợp cho Tiếng Anh trong lĩnh vực kinh doanh và doanh nghiệp, sales .v.v. 
 - [Marketing](./docs/marketing.md) - Một ngành sử dụng **rất nhiều** Tiếng Anh
 
 ### Y học
