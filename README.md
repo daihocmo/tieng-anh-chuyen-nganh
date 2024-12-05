@@ -1,119 +1,91 @@
-# Tự học Tiếng Anh Chuyên Ngành
+# Tự học Tiếng Anh chuyên ngành ESP
+
 ## Mục lục
-- [Chuẩn bị](#chuẩn-bị)
-- [Cài đặt](#cài-đặt)
-- [Hướng dẫn bắt đầu học](#hướng-dẫn-bắt-đầu-học)
-- [Thói quen học hàng ngày](#thói-quen-học-hàng-ngày)
-- [Tổng hợp tài nguyên](#cộng-đồng--tài-nguyên)
+- [Mục lục](#m%E1%BB%A5c-l%E1%BB%A5c)
+- [Chuẩn bị](#chu%E1%BA%A9n-b%E1%BB%8B)
+- [Hướng dẫn bắt đầu học](#h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-b%E1%BA%AFt-%C4%91%E1%BA%A7u-h%E1%BB%8Dc)
+    - [Anki](#anki)
+    - [Từ điển](#t%E1%BB%AB-%C4%91i%E1%BB%83n)
+    - [Đọc nhiều hơn, nghe nhiều hơn](#%C4%91%E1%BB%8Dc-nhi%E1%BB%81u-h%C6%A1n-nghe-nhi%E1%BB%81u-h%C6%A1n)
+    - [Luyện nói viết](#luy%E1%BB%87n-n%C3%B3i-vi%E1%BA%BFt)
+    - [Nhiệm vụ cơ bản hàng ngày](#nhi%E1%BB%87m-v%E1%BB%A5-c%C6%A1-b%E1%BA%A3n-h%C3%A0ng-ng%C3%A0y)
+- [Tổng hợp các nguồn Tiếng Anh riêng cho từng ngành](#t%E1%BB%95ng-h%E1%BB%A3p-c%C3%A1c-ngu%E1%BB%93n-ti%E1%BA%BFng-anh-ri%C3%AAng-cho-t%E1%BB%ABng-ng%C3%A0nh)
+
 
 ## Chuẩn bị
-### Bạn cần gì?
-- Khả năng tự học
-- Ít nhất 2 -> 3h cho việc học
-- Máy tính.
+- Trước khi bắt đầu học ESP, bạn cần có mức độ Tiếng Anh tối thiểu (Ít nhất là B1, sẽ phù hợp hơn nếu bạn bắt đầu từ B2). Nếu bạn mới bắt đầu học thì vẫn có thể tiếp tục học và sẽ có những gợi ý dành cho bạn.
+- Khả năng tự học. Nếu bạn vẫn chưa có một định hướng rõ ràng về tự học thì có thể đọc [Hướng dẫn tự học - Khu học mở](https://daihocmo.github.io/posts/howto.html) để bắt đầu.
+- 2 -> 3h cho việc học mỗi ngày (Nhiều hơn càng nhanh tiến bộ hơn).
+- Máy tính (Xin lỗi những người dùng điện thoại)
 
-### Cấp độ yêu cầu
+Hướng dẫn Tiếng Anh chuyên ngành ở đây về cơ bản là học Tiếng Anh nhưng là ở một phân vùng (language domain) khác. Về cơ bản là, cách học tương tự như việc học Tiếng Anh thông thường, chỉ khác ở nguồn Tiếng Anh mà bạn nạp Input vào.
 
-Trước khi bắt đầu học ESP, bạn cần có mức độ Tiếng Anh tối thiểu (Ít nhất là B1, sẽ phù hợp hơn nếu bạn bắt đầu từ B2).
+## Hướng dẫn bắt đầu học
+Nếu bạn mới bắt đầu học Tiếng Anh (Chưa lên Tiếng Anh chuyên ngành, cho những người mất gốc hoặc chưa quen với Tiếng Anh), bạn có thể lựa chọn bắt đầu dựa trên các lộ trình khởi động cho người mới bắt đầu. Đây là một số lộ trình mình đã viết:
 
-Cho người mất gốc chưa biết gì = [Tự luyện Tiếng Anh](https://daihocmo.github.io/tu-luyen-tieng-anh/) - Tự học lên B1
+- [Lộ trình khởi động 30 ngày - Immersion](https://daihocmo.github.io/tieng-anh/30ngay/) - Lộ trình này theo phương pháp Immersion, về cơ bản là dành càng nhiều thời gian tiếp xúc với ngôn ngữ càng tốt, đặc biệt là tiêu thụ các nội dung bằng Tiếng Anh mà bạn thích. 
+- [Lộ trình 160 ngày](https://daihocmo.github.io/tu-luyen-tieng-anh/archive/main-guide.html) - Đây là một lộ trình cũ mình đã viết sử dụng giáo trình Streamline. Nếu bạn là người thích học theo sách giáo khoa thì có thể cân nhắc lộ trình này. Mình gợi ý mọi người có thể chọn một giáo trình khác mọi người thích.
 
-Leo lên từ B1 lên B2 = Cày thêm nội dung Comprehensible (Khoảng cấp của bạn) và khi cảm thấy tự tin hãy thử thi bài thi đánh giá năng lực Tiếng Anh trên mạng (kiểu English Proficiency Test đại loại vậy).
+Nếu bạn là người đã học được một thời gian (Tính theo CEFR thì khoảng B1, B2 hoặc hơn) thì có thể tiếp tục đọc tiếp. 
 
-## Cài đặt
+- [Teach Yourself a Foreign Language](https://sajforbes.nz/languageguide/introduction/) - Hướng dẫn này chỉ miễn phí hết phần **Getting Started**, bạn có thể đọc để có hình dung rõ hơn về việc học ngoại ngữ, các kiến thức cơ bản về học ngoại ngữ và thiết lập thói quen học tập ngoại ngữ hàng ngày. Đọc từ [Before You Start](https://sajforbes.nz/languageguide/beforeyoustart/) rồi hết phần **Getting Started**
+- [Tu luyện ngoại ngữ](https://daihocmo.github.io/ngoai-ngu/) - Đây là trang nói về việc học ngoại ngữ nói chung. Mình gợi ý bạn đọc những bài sau để có thêm những trang bị cần thiết cho việc học sắp tới:
+  - [Tại sao cần tự học](https://daihocmo.github.io/ngoai-ngu/can-tu-hoc/) - Chuẩn bị tư duy để tiếp tục tự học trong quá trình sắp tới.
+  - [Hướng dẫn chính](https://daihocmo.github.io/ngoai-ngu/guide/) - Tổng quan về lộ trình học ngoại ngữ
+  - [Input](https://daihocmo.github.io/ngoai-ngu/input/) - Bạn cần rất nhiều Input để cải thiện ngoại ngữ.
+- [Hướng dẫn tự học Tiếng Anh](https://daihocmo.github.io/tieng-anh/guide/) - Tổng quan về việc tự học Tiếng Anh.
 
 ### Anki
 Một trong những phần mềm mọi người cần dùng là Anki. Anki sẽ giúp bạn tối ưu thời gian ghi nhớ để có thể ghi nhớ một lượng lớn từ vựng và đưa nó vào bộ nhớ dài hạn tốt hơn. Tất nhiên là bạn có thể làm điều tương tự bằng cách đọc thật nhiều. Nhưng Anki khiến mọi thứ đơn giản hơn nhiều. 
-
  
-1. [Hướng dẫn cài đặt và sử dụng Anki cơ bản](https://www.youtube.com/watch?v=M9-qwsHyBrc) và 
-2. [Hướng dẫn tạo thẻ Anki đơn giản](https://youtu.be/Om_1NECh8sQ)
-3. [Sentence Mining cơ bản trên Anki](https://www.youtube.com/watch?v=PLnJ1l6f7mQ)
-
-Bạn bấm tải [bộ thẻ Template ở đây](https://daihocmo.github.io/tu-luyen-tieng-anh/assets/template.apkg) để giúp việc tạo và thiết kế thẻ trở nên nhanh gọn hơn.
-
 SỬ DỤNG ANKI HÀNG NGÀY để giữ thói quen và để đảm bảo đưa được kiến thức vào bộ nhớ dài hạn.
 
-### Dictionary
+- [Tìm hiểu chung về SRS - Hệ thống lặp lại ngắt quãng](https://daihocmo.github.io/ngoai-ngu/srs/)
+- [Hướng dẫn tổng quan về Anki và cách sử dụng và tạo thẻ cơ bản](https://daihocmo.github.io/ngoai-ngu/anki/)
+- [Hướng dẫn Sentence Mining cơ bản](https://daihocmo.github.io/ngoai-ngu/sentence-mining/)
 
-Bạn sẽ cần có một ứng dụng sử dụng được đa từ điển để có thể:
+### Từ điển
+Bạn nên bắt đầu sử dụng từ điển đơn ngữ càng sớm càng tốt. Nếu bạn mới bắt đầu và cảm thấy khó để sử dụng, bạn vẫn có thể xem lại định nghĩa từ từ điển Anh-Việt. 
 
-- Tra từ mà không cần có mạng.
-- Tra từ trên nhiều từ điển thay vì chỉ một từ điển
-- Nhanh, gọn
+Bạn có thể đọc [Hướng dẫn chuyển qua đơn ngữ](https://daihocmo.github.io/tieng-anh/monolingual/) để bắt đầu chuyển qua sử dụng từ điển đơn ngữ.
 
-Bạn nên tải xuống cả [Yomitan](https://chromewebstore.google.com/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn) - một từ điển pop-up trên trình duyệt và [Goldendict-ng](https://xiaoyifang.github.io/goldendict-ng/install/) - Là bản mới hơn của GoldenDict.
+Về phần mềm sử dụng để tra từ điển, mình gợi ý sử dụng song song cả Yomitan và Goldendict, việc cài đặt toàn bộ từ điển ngoại tuyến sẽ giúp việc tra từ trở nên rất dễ dàng.
 
-Hướng dẫn cách chọn từ điển và cài đặt thì bạn có thể đọc [bài viết này](https://daihocmo.github.io/tieng-anh/setup/).
+Hướng dẫn cài đặt cho từng phần:
 
-Bạn nên tải thêm từ điển kĩ thuật "Prodict" cho Goldendict-ng ở bài viết mình đã gửi ở trên.
- 
-## Hướng dẫn bắt đầu học
+-   [Yomitan](https://daihocmo.github.io/tieng-anh/yomitan/) - Tra trực tiếp từ trên trình duyệt. Số lượng từ điển được làm cho Yomitan vẫn còn hạn chế. 
+-   [Goldendict](https://daihocmo.github.io/tieng-anh/goldendict/) - Khối lượng từ điển đồ sộ. 
+-   [Mining](https://daihocmo.github.io/tieng-anh/setup/) - Hướng dẫn cài đặt để tạo thẻ từ vựng cho Anki.
 
-### Cách học ESP thực sự rất đơn giản, chỉ có duy nhất một quy tắc bạn cần nhớ
+Với Tiếng Anh chuyên ngành, ta có bộ từ điển kĩ thuật của Prodict mà bạn có thể tra và sử dụng trên Goldendict (Các từ điển mình đã để đường dẫn trong các bài hướng dẫn tương ứng).
 
-**Đọc nhiều hơn, nghe nhiều hơn.**
+### Đọc nhiều hơn, nghe nhiều hơn.
+Càng đọc nhiều hơn, càng nghe nhiều hơn, không chỉ kiến thức Tiếng Anh được cải thiện mà kiến thức chuyên ngành cũng được phát triển theo.
 
-Mình xin phép nhắc lại là
+Trong lúc nghe đọc sẽ bắt gặp rất nhiều từ mới, hãy thử tra từ. Bạn cũng có thể thêm vào SRS luôn nếu muốn ghi nhớ và đưa vào bộ nhớ dài hạn. Nguyên tắc chọn từ mới và thêm vào SRS - Đọc để xem những từ nào bạn nên thêm vào SRS để học
 
-> Đọc nhiều hơn, nghe nhiều hơn.
-
-Ở phần [tổng hợp](#tổng-hợp) sẽ có RẤT NHIỀU tài nguyên để mọi người có thể bắt đầu thực hiện điều này.
-
-Phương pháp này chỉ đơn giản được ăn cắp từ [Antimoon](https://www.antimoon.com/how/howtolearn.htm) và chỉnh nó sao cho phù hợp với việc học Tiếng Anh chuyên ngành.
-
-Bạn cần có một vốn từ vựng đủ tốt, một vốn hiểu về cách dùng từ vựng đó và ngữ cảnh trong môi trường công việc đủ tốt. Bạn không thể cố nói và mong ai đó sửa sai cho bạn được, đặc biệt là khi đi làm. Vậy nên một giải pháp an toàn và dễ dàng hơn sẽ được chọn: **Đọc nhiều hơn, nghe nhiều hơn.** cho đến khi cách dùng **ĐÚNG** đấy in vào bộ não của bạn.
-
-Tất nhiên là bạn cũng sẽ muốn nói và viết trong quá trình làm việc. Bạn hoàn toàn có thể "thực hành" nó trực tiếp với công việc của mình. Tại sao lại không nên thực hành với "giáo viên"?
-
-1. Họ không phải là người đi làm, họ chỉ dạy ngôn ngữ thôi.
-2. Tiếng Anh "thực chiến" của họ chưa chắc đã tốt.
+- [Immersion - Những câu hỏi thường gặp](https://daihocmo.github.io/ngoai-ngu/overview/)
 
 ### Luyện nói viết
-- Reddit - Luyện viết
-- Discord - Luyện nói (Gợi ý: Bạn có thể tìm gợi ý trên Reddit bằng cách gõ y hệt như này trên thanh tìm kiếm `site:reddit.com discord servers for [x]`, x là chủ đề mà bạn muốn tìm). 
+- Luyện viết:
+  - Viết các bài đăng trên Reddit: Thử viết rồi đăng xem các Mod có chấp nhận bài viết của bạn không. Bài viết đăng trên 
+- Luyện nói:
+  - Sử dụng Discord, tham gia vào các hội nhóm về chủ đề mà bạn thích hoặc là các hội nhóm học ngoại ngữ và vào các kênh VC (Voicechat) (Gợi ý: Bạn có thể tìm gợi ý trên Reddit bằng cách gõ y hệt như này trên thanh tìm kiếm `site:reddit.com discord servers for [x]`, x là chủ đề mà bạn muốn tìm).
+  
+### Nhiệm vụ cơ bản hàng ngày
+Hàng ngày, bạn sẽ cần làm ít nhất những nhiệm vụ sau
 
-## Thói quen học hàng ngày
-Bạn sẽ cần cày nội dung ở khu [Tổng hợp](#tổng-hợp) và thực hiện Sentence Mining + Anki hàng ngày.
+- Học từ vựng trên Anki (Ôn tập từ cũ, học từ mới và thêm thẻ từ vựng vào trong bộ thẻ - nếu muốn thêm)
+- Đọc và nghe các nội dung chuyên ngành (Hay còn có thể gọi là Immersion)
+- Học thêm các nội dung khác như ngữ pháp chẳng hạn (Sẽ được gợi ý sau)
 
-Đọc thêm về [Sentence Mining tại đây](https://daihocmo.github.io/ngoai-ngu/sentence-mining/) và xem [Sentence Mining cơ bản trên Anki](https://www.youtube.com/watch?v=PLnJ1l6f7mQ).
-
-
-## Tổng hợp
-LƯU Ý: Danh sách các ngành sẽ được bổ sung, hiện tại mình chỉ nghĩ được một số ngành như vậy thôi.
-
-### Công nghệ
-Đọc toàn bộ tài nguyên từ [trang này](./docs/compsci.md). Ở trang này sẽ tổng hợp luôn cho cả 3 định hướng:
-
-- Khoa học máy tính.
-- Khoa học dữ liệu.
-- An toàn thông tin.
-
-### Kinh tế
-- [Business English](./docs/business.md) - Khu tổng hợp cho Tiếng Anh trong lĩnh vực kinh doanh và doanh nghiệp, sales .v.v. 
-- [Marketing](./docs/marketing.md) - Một ngành sử dụng **rất nhiều** Tiếng Anh
-
-### Y học
-
-Truy cập vào [kho tổng hợp cho ngành Y tại đây](./docs/y-hoc.md)
-
-### Nghệ thuật & Kiến trúc
-- [Hội họa](./docs/hoi-hoa.md)
-- [Thiết kế đồ họa](./docs/do-hoa.md)
+## Tổng hợp các nguồn Tiếng Anh riêng cho từng ngành
+- [Computer Science](./docs/compsci.md)
+- [Business English](./docs/business.md) - Tiếng Anh liên quan đến kinh doanh - Tiếng Anh doanh nghiệp
+- [Marketing](./docs/marketing.md)
+- [Nghệ thuật](./docs/hoi-hoa.md) & [Thiết kế đồ họa](./docs/do-hoa.md) - Liên quan đến vẽ, thiết kế 2D, 3D và hơn nữa
 - [Kiến trúc](./docs/kien-truc.md)
-
-<!-- ### Các ngành khác
-- [Ngành may mặc](./docs/may-mac.md) - Mình viết cho chị mình nên làm luôn cho mọi người :> -->
-
-### Khác
 - [Báo chí](./docs/bao-chi.md)
-
-## Cộng đồng & Tài nguyên
-
-Bạn có thể tham gia cộng đồng Tự luyện Tiếng Anh bằng cách bấm vào [đường dẫn này](https://daihocmo.github.io/tieng-anh/cong-dong/).
-
-Để đọc thêm về tài nguyên thì bạn ghé qua trang Tài nguyên (TODO: Đang trong quá trình làm), vì số lượng tương đối lớn và để tránh khiến trang hướng dẫn này bị quá tải.
-
 
 
 
